@@ -5,7 +5,7 @@ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v4.0.0/contr
 
 contract MyToken is ERC20{
     address public Owner;
-    constructor() ERC20("ANDREToken", "DRE") {
+    constructor() ERC20("SHRIToken", "DRE") {
         Owner =msg.sender;
         _mint(msg.sender, 10000);
     }
