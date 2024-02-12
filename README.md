@@ -50,8 +50,7 @@ Once the contract is deployed, you can use all the functions in the contract fir
 
 ## Authors
 
-Andre Martee Valerio
-[@Dr_EanValerio](https://twitter.com/Dr_EanValerio)
+Shrikant204
 
 ## License
 
